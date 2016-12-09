@@ -42,6 +42,8 @@ brew "vim"
 cask "iterm2"
 cask "google-chrome"
 cask "firefoxdeveloperedition"
+cask "spectacle"
+cask "github-desktop"
 
 # fonts
 cask "font-nanumgothic"
