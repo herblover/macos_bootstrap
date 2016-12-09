@@ -44,6 +44,7 @@ cask "google-chrome"
 cask "firefoxdeveloperedition"
 cask "spectacle"
 cask "github-desktop"
+cask "visual-studio-code"
 
 # fonts
 cask "font-nanumgothic"
