@@ -38,32 +38,37 @@ brew "git"
 # Vim
 brew "vim"
 
+# Hugo for blog
+brew "hugo"
+
 # casks for macos utility
 cask "iterm2"
 cask "google-chrome"
-cask "firefoxdeveloperedition"
 cask "spectacle"
+
+# Development Tools
 cask "github-desktop"
 cask "visual-studio-code"
+cask "firefoxdeveloperedition"
+cask "java"
+
+# Jetbrains Toolbox
+cask "jetbrains-toolbox"
 
 # fonts
 cask "font-nanumgothic"
 cask "font-nanumgothiccoding"
 cask "font-d2coding"
 cask "font-noto-sans-cjk"
+cask "font-awesome-terminal-fonts"
 
 # Ruby
 brew "rbenv"
 brew "ruby-build"
-cask "rubymine"
 
 # Python
-brew "python"
-cask "pycharm"
-
-# Java
-cask "java"
-cask "intellij-idea"
+brew "pyenv"
+brew "pyenv-virtualenv"
 
 # MAS (mac app store cli interface)
 brew "mas"
