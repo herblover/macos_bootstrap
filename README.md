@@ -8,7 +8,6 @@ Usage: just go to cloned dir, ```brew bundle```
 * [caskroom/cask](https://caskroom.github.io) : enable cask
 * [caskroom/versions](https://github.com/caskroom/homebrew-versions) : alternative versions
 * [caskroom/fonts](https://github.com/caskroom/homebrew-fonts) : cask fonts
-* [buo/cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) : for brew cu command. (update cask applications)
 
 ## Shell installation
 * [zsh](http://www.zsh.org)
@@ -68,14 +67,4 @@ Usage: just go to cloned dir, ```brew bundle```
 ## Python
 * [pyenv](https://github.com/yyuu/pyenv)
 * [pyenv-virtualenv](https://github.com/yyuu/pyenv-virtualenv)
-
-## MAS (Mac App Store cli interface)
-* [mas](https://github.com/mas-cli/mas)
-* [Xcode](https://developer.apple.com/xcode/)
-* [Pages](http://www.apple.com/pages/)
-* [Numbers](http://www.apple.com/numbers/)
-* [Keynote](http://www.apple.com/keynote/)
-* [Kobitio](http://kobito.qiita.com) : Markdown editor by Qiita
-* [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
-* [Bee](http://www.neat.io/bee/) : Native issue tracker client (JIRA, Github Issues... etc)
-* [Airmail 3](http://airmailapp.com)
+* [pipenv](https://github.com/pypa/pipenv)
