@@ -8,8 +8,6 @@ tap "caskroom/cask"
 tap "caskroom/versions"
 # enable cask fonts
 tap "caskroom/fonts"
-# enable cask upgrade command
-tap "buo/cask-upgrade"
 
 # zsh shell
 brew "zsh"
@@ -69,14 +67,4 @@ brew "ruby-build"
 # Python
 brew "pyenv"
 brew "pyenv-virtualenv"
-
-# MAS (mac app store cli interface)
-brew "mas"
-mas "Xcode", id: 497799835
-mas "Pages", id: 409201541
-mas "Numbers", id: 409203825
-mas "Keynote", id: 409183694
-mas "Kobito - Markdown メモアプリ", id: 896624060
-mas "The Unarchiver", id: 425424353
-mas "Bee - Issue Tracking made Native", id: 726099620
-mas "Airmail 3", id: 918858936
+brew "pipenv"
